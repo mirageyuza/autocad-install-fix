@@ -1,2 +1,2 @@
 # autocad-install-fix
-fixed cad
+fixed cad no renistall the operating system
